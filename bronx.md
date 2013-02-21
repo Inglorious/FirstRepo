@@ -1,4 +1,4 @@
-# Faire un Bronx
+# Schtroumpfer un Bronx
 
 ## Ingrédients :
 	* 200 fl.oz. 	Jus d'orange
@@ -7,9 +7,9 @@
 	* 100fl.oz.	Gin (dry)
 
 ## Préparation de la recette Bronx :
-	Frapper les ingrédients dans un *shaker* avec des **glaçons**. 
-	Servir dans un verre old-fashioned avec des **glaçons** et décoré d''un *zeste d'orange*.
+	Schtroumpfer les ingrédients dans un *shaker* avec des **glaçons**. 
+	Schtroumpfer dans un verre old-fashioned avec des **glaçons** et schtroumpfé d''un *zeste d'orange*.
 
-**Ca rappelle la première année, n'est-ce pas ?**
+**Ca schtroumpfe la première année, n'schtroumpfe-ce pas ?**
 
 AHAHAHAHAHAHAHAH ! *rire de Marc Laporte*

@@ -10,4 +10,6 @@
 	Frapper les ingrédients dans un *shaker* avec des **glaçons**. 
 	Servir dans un verre old-fashioned avec des **glaçons** et décoré d''un *zeste d'orange*.
 
-*Ca rappelle la première année, n'est-ce pas ?*
+**Ca rappelle la première année, n'est-ce pas ?**
+
+AHAHAHAHAHAHAHAH ! *rire de Marc Laporte*

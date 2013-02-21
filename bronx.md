@@ -7,7 +7,8 @@
 	* 100fl.oz.	Gin (dry)
 
 ## Préparation de la recette Bronx :
-	Schtroumpfer les ingrédients dans un *shaker* avec des **glaçons**. 
+	Schtroumpfer les ingrédients dans un *shaker* avec des **glaçons**.
+	Schtroumpfer énergiquement. 
 	Schtroumpfer dans un verre old-fashioned avec des **glaçons** et schtroumpfé d''un *zeste d'orange*.
 
 **Ca schtroumpfe la première année, n'schtroumpfe-ce pas ?**

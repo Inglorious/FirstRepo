@@ -1,10 +1,10 @@
 # Faire un Bronx
 
 ## Ingrédients :
-	* 6cl 	Jus d'orange
-	* 1.5cl Vermouth blanc
-	* 1.5cl Vermouth rouge
-	* 3 cl	Gin (dry)
+	* 200 fl.oz. 	Jus d'orange
+	* 50 fl.oz.	Vermouth blanc
+	* 50 fl.oz.	Vermouth rouge
+	* 100fl.oz.	Gin (dry)
 
 ## Préparation de la recette Bronx :
 	Frapper les ingrédients dans un *shaker* avec des **glaçons**. 

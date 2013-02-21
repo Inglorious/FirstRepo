@@ -1,8 +1,13 @@
 # Recette du Mojito
 
 ## Ingrédients :
-	* 200.fl.oz.  de rhum cubain (havana club, bacardi)	 
+<<<<<<< HEAD
+	* 400.fl.oz.  de rhum cubain (havana club, bacardi)	 
 	* 100.fl.oz.  de jus de citrons verts	 
+=======
+	* 12 cl de rhum cubain (havana club, bacardi)	 
+	* 3 cl de jus de citrons verts	 
+>>>>>>> master
 	* 7 feuilles de menthe	
 	* eau gazeuse (perrier, salvetat)	 
 	* 2 cuillères à café de sucre
